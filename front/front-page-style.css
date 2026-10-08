@@ -4,8 +4,6 @@
     box-sizing: border-box;
     font-family: Arial, sans-serif;
 }
-html{
-}
 
 body {
     background: #f4f4f4;
@@ -49,7 +47,7 @@ header p {
 /* Hero Section */
 .hero {
     height: 100vh;
-    background: linear-gradient(135deg, #0F172A, #222831);
+    background: linear-gradient(135deg, #233d7a, #222831);
     display: flex;
     justify-content: center;
     align-items: center;
